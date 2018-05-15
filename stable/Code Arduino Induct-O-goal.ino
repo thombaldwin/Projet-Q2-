@@ -59,8 +59,11 @@ void setup() //setup du code (prise des valeurs et init* ecran)
   val1 = analogRead(DETECT_PIN_1); // prise des valeurs de référence des tensions de sortie
   val2 = analogRead(DETECT_PIN_2);
 }
-
-void loop()
+/*
+sjfj
+kdkde
+/*
+void loop() 
 {
      while(score1 < 10 && score2 < 10) // boucle tant que les 2 scors sont en dessous de 10
      {
