@@ -12,7 +12,7 @@ Dans le cadre du cours de projet, nous avons du adapter un circuit de détection
 Afin de pouvoir comprendre au mieux le code ci-joint, voici le fonctionnement du circuit électronique couplé à l'Arduino. 
 
 Celui-ci est doté d'une inductance dans laquelle les balles de kicker
--préalablement métallisées à l'aide d'une bille métallique en leur centre- vont passer. Cela va créer une différence de potentiel à la sortie du circuit. Afin de pouvoir compter les goals marqués par les deux joueurs et leurs score respectif, deux circuit sont nécéssaires. Le premier placé dans le goal du Joueur 1 et le deuxième dans celui du joueur 2.
+-préalablement métallisées à l'aide d'une bille métallique en leur centre- vont passer. Cela va créer une différence de potentiel à la sortie du circuit. Pour pouvoir compter les goals marqués par les deux joueurs et leurs score respectif, deux circuit sont nécéssaires. Le premier, placé dans le goal du Joueur 1 et le deuxième dans celui du joueur 2.
 
 
 ## L'Arduino
